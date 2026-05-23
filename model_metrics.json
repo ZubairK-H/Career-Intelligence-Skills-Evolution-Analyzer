@@ -1,0 +1,44 @@
+{
+  "best_salary_model": "Ridge",
+  "best_risk_model": "XGBoost",
+  "salary_metrics": [
+    {
+      "model": "Ridge",
+      "rmse": 0.0,
+      "mae": 0.0,
+      "r2": 1.0
+    },
+    {
+      "model": "RandomForest",
+      "rmse": 0.0,
+      "mae": 0.0,
+      "r2": 1.0
+    },
+    {
+      "model": "XGBoost",
+      "rmse": 0.0,
+      "mae": 0.0,
+      "r2": 1.0
+    }
+  ],
+  "risk_metrics": [
+    {
+      "model": "LogisticRegression",
+      "precision": 0.5774812081907809,
+      "recall": 0.6688519911907816,
+      "f1_macro": 0.6109541704421294
+    },
+    {
+      "model": "RandomForest",
+      "precision": 0.8684871311989956,
+      "recall": 0.41991390365201653,
+      "f1_macro": 0.45372876273066093
+    },
+    {
+      "model": "XGBoost",
+      "precision": 0.824770920032042,
+      "recall": 0.6776499153355484,
+      "f1_macro": 0.72852044499565
+    }
+  ]
+}
