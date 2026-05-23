@@ -109,6 +109,8 @@ Add screenshots of:
 - Salary or automation risk charts.
   <img width="1878" height="951" alt="Screenshot 2026-05-23 000223" src="https://github.com/user-attachments/assets/1d9fd386-75e5-44ab-9e00-51d5ffe15ecc" />
 
+ <href src=" http://localhost:8503/">
+
 
 
 ## Future Scope
